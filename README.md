@@ -6,7 +6,7 @@
 
 ### Start the front end
 
-To start the React application, run `npm start` while in the `client` directory.
+To start the server, run `npm start` while in the `client` directory.
 
 # Back End
 
