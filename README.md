@@ -6,7 +6,7 @@
 
 ### Start the front end
 
-To start the server, run `npm start` while in the `client` directory.
+To start the React application, run `npm start` while in the `client` directory.
 
 # Back End
 
@@ -20,7 +20,7 @@ This application utilizes MongoDB, ensure that you have it installed and a servi
 
 ### Start the back end
 
-To start the React application, run `node server.js` while in the `server` directory. Alternatively, you can run `nodemon server.js` for live reload if you have nodemon installed. Instructions can be found [here](https://www.npmjs.com/package/nodemon). If you started the front end before following the back end steps, refreshing your browser should fix any errors.
+To start the Node server, run `node server.js` while in the `server` directory. Alternatively, you can run `nodemon server.js` for live reload if you have nodemon installed. Instructions can be found [here](https://www.npmjs.com/package/nodemon). If you started the front end before following the back end steps, refreshing your browser should fix any errors.
 
 ### Given more time
 
